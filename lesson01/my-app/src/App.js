@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import DTL from "./components/DTL";
+import HVK from "./components/HVK";
 function App() {
   return (
     <div className="App">

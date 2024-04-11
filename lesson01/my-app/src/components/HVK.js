@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function HVK(props) {
+export default function HVKEe(props) {
   return (
     <div>
       <h1>Welcom to, ReactJs</h1>
