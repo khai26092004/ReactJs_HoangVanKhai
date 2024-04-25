@@ -16,7 +16,7 @@ class EventForm1 extends Component {
                 {/*gọi hàm xử lý sự kiện khi render */}
                 <button onClick={this.eventHandleClick1()}>Click 1</button>
                 {/* gọi hàm xử lý khi click */}
-                <button onClick={this.eventHandleClick2()}>Click 2</button>
+                <button onClick={this.eventHandleClick2}>Click 2</button>
             </div>
         );
     }
